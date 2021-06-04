@@ -12,4 +12,5 @@ const tiktokSchema = mongoose.Schema({
 });
 
 // collection inside the huge database
+// something
 export default mongoose.model('tiktokVideos', tiktokSchema);
